@@ -1,0 +1,30 @@
+# Team Collaboration Guide
+
+## Roles (Simulated SOC Structure)
+
+### Tier 1 Analyst
+- Initial alert triage
+- IOC extraction
+- Basic log review
+
+### Tier 2 Analyst
+- Deep packet inspection
+- SIEM correlation
+- Web log analysis
+
+### Incident Responder
+- Evidence preservation
+- Timeline reconstruction
+- Impact assessment
+
+## Communication Workflow
+1. Alert received
+2. IOC extraction
+3. Escalation to Tier 2
+4. Correlation and deep analysis
+5. Final reporting
+
+## Documentation Standards
+- All findings must include evidence screenshots
+- Timestamps must be documented
+- Hash verification required for collected files
