@@ -1,0 +1,32 @@
+# Project Index
+
+## 00 - Case Initialization
+Defines the incident scope, objectives, and investigation plan.
+
+## 01 - Evidence Preservation
+Contains collected PCAPs, logs, and hash verification documentation.
+
+## 02 - Initial Assessment
+Initial IOC extraction and suspicious activity review.
+
+## 03 - Deep Analysis
+Technical forensic investigation:
+- Network traffic analysis
+- SIEM log analysis
+- Web server log review
+- Payload analysis
+
+## 04 - Findings Correlation
+Timeline reconstruction and attack lifecycle mapping.
+
+## 05 - Final Report
+Executive and technical report of the investigation.
+
+## evidence-files
+Raw PCAPs, logs, and collected artifacts.
+
+## screenshots
+Evidence screenshots from tools.
+
+## tools-output
+Raw exported outputs from analysis tools.
