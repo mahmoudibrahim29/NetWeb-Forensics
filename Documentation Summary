@@ -1,0 +1,27 @@
+# Documentation Summary
+
+## Incident Summary
+A simulated cyber attack targeting a web server was detected through unusual network activity.
+
+The attacker performed:
+- Port scanning
+- SYN flood activity
+- DNS exfiltration
+- SQL injection
+- Malicious file upload
+
+## Impact
+- Unauthorized database access
+- Web shell deployment
+- Potential data exfiltration
+
+## Key Findings
+- Suspicious IP: 192.168.56.101
+- SQL injection payload detected in Apache logs
+- Encoded DNS queries identified
+- Web shell file discovered in uploads directory
+
+## Conclusion
+The investigation successfully reconstructed the full attack lifecycle from reconnaissance to exploitation.
+
+Recommendations were provided to improve detection and prevention.
