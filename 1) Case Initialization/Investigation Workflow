@@ -1,0 +1,63 @@
+
+---
+
+## 🔄 Investigation Workflow
+
+1. Case Initialization  
+2. Evidence Preservation  
+3. Initial Assessment  
+4. Deep Technical Analysis  
+5. Event Correlation  
+6. Final Report  
+
+---
+
+## 🛠 Tools Used
+
+- Wireshark
+- Zeek
+- Splunk (SIEM)
+- Nmap
+- SQLMap
+- Apache Web Server
+- Linux Forensic Utilities
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Network Traffic Analysis
+- Log Correlation & SIEM Investigation
+- Web Application Forensics
+- IOC Extraction
+- Timeline Reconstruction
+- Threat Profiling
+- Incident Reporting
+
+---
+
+## 📊 Key Findings (Summary)
+
+- Port scanning detected
+- SYN flood behavior observed
+- SQL injection confirmed
+- Web shell uploaded
+- Encoded DNS queries identified
+
+---
+
+## 🔐 Mitigation Recommendations
+
+- Input validation & prepared statements
+- Web Application Firewall (WAF)
+- IDS/IPS tuning
+- DNS monitoring
+- Rate limiting
+- Improved logging strategy
+
+---
+
+## 👤 Author
+
+Mahmoud Ibrahim  
+SOC Analyst Path | Cybersecurity Enthusiast
