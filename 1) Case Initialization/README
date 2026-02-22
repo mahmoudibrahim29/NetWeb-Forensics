@@ -1,0 +1,28 @@
+# 🔎 Network & Web Application Forensics Case Study
+
+## 📌 Project Overview
+
+This project simulates a real-world cyber incident involving:
+
+- Network reconnaissance (Port Scanning)
+- SYN Flood / DDoS activity
+- DNS exfiltration
+- SQL Injection
+- Web shell upload
+
+The investigation follows a structured SOC workflow from initial alert to final report.
+
+---
+
+## 🎯 Objectives
+
+- Analyze malicious network traffic (PCAP)
+- Extract Indicators of Compromise (IoCs)
+- Correlate logs using SIEM
+- Investigate web application compromise
+- Reconstruct attack timeline
+- Provide mitigation recommendations
+
+---
+
+## 🗂 Project Structure
